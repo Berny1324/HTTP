@@ -1,0 +1,1 @@
+Compile test.c and server.c together. You can then run the resulting binary and connect at 127.0.0.1. You will see info about the connected user in your terminal.
